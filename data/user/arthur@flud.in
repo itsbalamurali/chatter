@@ -1,0 +1,12 @@
+---
+name: 
+password: !binary |-
+  JDJhJDEwJHRQSXJuUHlnSWJGWmE1L2ouYW1tTmVNWTBDY0lpQVJpLmxZNk9Z
+  dThtVUlTWDhmZ1pWdnI2
+roster:
+  alice@flud.in:
+    name: Alice
+    subscription: both
+    ask: 
+    groups:
+    - Buddies

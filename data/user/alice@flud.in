@@ -1,0 +1,12 @@
+---
+name: 
+password: !binary |-
+  JDJhJDEwJHdTZTNDRk9MRElmb2Faa29Tck9Edk81Q2xRSUh5VHIwQjFBNmdl
+  bnJ2NFdPSktNdTBuMHdp
+roster:
+  arthur@flud.in:
+    name: Arthur
+    subscription: both
+    ask: 
+    groups:
+    - Buddies
